@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    /* font-weight: 400; normal */
+    font-weight: normal;
+    text-decoration: underline orange wavy;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    line-height: 2;
+    letter-spacing: 2px;
+}
+
