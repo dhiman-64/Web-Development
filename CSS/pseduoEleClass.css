@@ -1,0 +1,14 @@
+/* pseduo-class */
+a:nth-of-type(2n){
+    background-color: red;
+    color: white;
+}
+/* pseduo-element */
+h1::first-letter{
+    font-size: 300px;
+} 
+
+p::selection{
+    background-color: black;
+    color: white;
+}
