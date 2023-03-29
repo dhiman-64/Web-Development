@@ -1,0 +1,41 @@
+div{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+}
+h1{
+    background-color: purple;
+    color: white;
+}
+
+#one{
+    background-color: brown;
+    border: 4px solid red;
+    border-radius: 50%;
+}
+
+#two{
+    background-color: rgb(111, 34, 34);
+    border: 4px double blue;
+    box-sizing: border-box;
+}
+
+#three{
+    background-color: rgb(43, 23, 23);
+    border: 4px dotted green;
+}
+
+button{
+    padding: 20px 10px 5px 15px;
+    margin: 10px 5px 15px 20px;
+}
+
+h1{
+    background-color: teal;
+    display: inline;
+}
+span{
+    background: red;
+    display: block;
+}
